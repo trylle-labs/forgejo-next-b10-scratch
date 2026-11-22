@@ -1,0 +1,1 @@
+post-switch/*.bin filter=lfs diff=lfs merge=lfs -text
